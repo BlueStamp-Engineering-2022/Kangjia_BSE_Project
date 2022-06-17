@@ -24,4 +24,5 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 My starter project was a Simon Says game, a memory game where your goal is to remember and repeat a random sequence of colors gradually increasing in length by pressing the four buttons on the front. Through building the project, I learned the extremely useful skill of through-hole soldering. In fact, *every* component on the board required soldering, so I got a lot of hands-on practice. I was also really happy with the result once it was finally completed.
+
 [![Starter Project](https://i.ytimg.com/vi/cH4CFD-G34s/hqdefault.jpg)](https://www.youtube.com/watch?v=cH4CFD-G34s)
