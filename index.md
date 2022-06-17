@@ -3,7 +3,7 @@ A compact security camera which uses Computer Vision for more accurate human det
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kangjia Huang | Lynbrook High School | Computer Science | Rising 10th
+| Kangjia | Lynbrook High School | Computer Science | Rising 10th
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUYDXCKHIv1zm-yCbVAavI0pE1Ihwrh5KbMCFYjD9T-KA4rwL_0qVXPvvsJCDZn4afpUOYDAIV0rg-HbGK4lOZYQ4Gxw11TluO8xOJftvVPEogql8NhAY_Bj__LcG8fI812eyVAyi5Lb1yus_OTt8HN=w637-h636-no?authuser=0)
   
