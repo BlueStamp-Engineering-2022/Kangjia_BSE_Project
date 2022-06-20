@@ -25,4 +25,4 @@ My first milestone was setting up all the software on the Raspberry Pi and also 
 # Starter Project
 My starter project was a Simon Says game, a memory game where your goal is to remember and repeat a random sequence of colors gradually increasing in length by pressing the four buttons on the front. Through building the project, I learned the extremely useful skill of through-hole soldering. In fact, *every* component on the board required soldering, so I got a lot of hands-on practice. I was also really happy with the result once it was finally completed.
 
-[![Starter Project](https://i.ytimg.com/vi/cH4CFD-G34s/hqdefault.jpg)](https://www.youtube.com/watch?v=cH4CFD-G34s)
+[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1655742085/video_to_markdown/images/youtube--tpkEPMnDQJE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tpkEPMnDQJE "Frank H Starter Project")
