@@ -15,10 +15,11 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
 My first milestone was setting up all the software on the Raspberry Pi and also building the outer case for the camera. I set up the Raspberry Pi Zero W with the Raspbian operating system (as usual), and finished writing all the code and installing the dependencies for the base project. For the outer case, I built it out of black acryllic panels and superglue. For the next week of my project, I plan to put all the components together and test my code. Afterwards, I’ll work out assembly into the case and also start project modifications.
+
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656518352/video_to_markdown/images/youtube--HHNOV0KtB6w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=HHNOV0KtB6w "Second Milestone")
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
