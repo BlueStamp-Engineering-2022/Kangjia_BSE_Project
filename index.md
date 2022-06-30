@@ -13,15 +13,14 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone involved getting the base project fully functional and also getting an upgraded Raspberry Pi. I wrote all the code, tested it to ensure it was working, and added some minor functionality to help with debugging in the future. In the demo, I had not fully installed it into the case because the new raspberry pi still lacked mounting supports. However, the case was fully ready.
 
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656606010/video_to_markdown/images/youtube--iUdPNv8qxTo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iUdPNv8qxTo "Second Milestone")
 
 # First Milestone
 My first milestone was setting up all the software on the Raspberry Pi and also building the outer case for the camera. I set up the Raspberry Pi Zero W with the Raspbian operating system (as usual), and finished writing all the code and installing the dependencies for the base project. For the outer case, I built it out of black acryllic panels and superglue. For the next week of my project, I plan to put all the components together and test my code. Afterwards, I’ll work out assembly into the case and also start project modifications.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656518352/video_to_markdown/images/youtube--HHNOV0KtB6w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=HHNOV0KtB6w "Second Milestone")
-
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
 # Starter Project
 My starter project was a Simon Says game, a memory game where your goal is to remember and repeat a random sequence of colors gradually increasing in length by pressing the four buttons on the front. Through building the project, I learned the extremely useful skill of through-hole soldering. In fact, *every* component on the board required soldering, so I got a lot of hands-on practice. I was also really happy with the result once it was finally completed.
