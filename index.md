@@ -6,11 +6,6 @@ A compact security camera which uses Computer Vision for more accurate human det
 | Kangjia | Lynbrook High School | Computer Science | Rising 10th
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUYDXCKHIv1zm-yCbVAavI0pE1Ihwrh5KbMCFYjD9T-KA4rwL_0qVXPvvsJCDZn4afpUOYDAIV0rg-HbGK4lOZYQ4Gxw11TluO8xOJftvVPEogql8NhAY_Bj__LcG8fI812eyVAyi5Lb1yus_OTt8HN=w637-h636-no?authuser=0)
-  
-# Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone involved getting the base project fully functional and also getting an upgraded Raspberry Pi. I wrote all the code, tested it to ensure it was working, and added some minor functionality to help with debugging in the future. In the demo, I had not fully installed it into the case because the new raspberry pi still lacked mounting supports. However, the case was fully ready.
